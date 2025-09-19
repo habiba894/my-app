@@ -1,11 +1,11 @@
 
-import Header from './components/Headerc'
+import Nav from './component/Nav'
 function App() {
 
 
   return (
     <>
-  <Headerc/>
+  <Nav/>
     </>
   )
 }
