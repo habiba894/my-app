@@ -1,11 +1,11 @@
 
-
+import Header from './components/Headerc'
 function App() {
 
 
   return (
     <>
-  <Header/>
+  <Headerc/>
     </>
   )
 }
